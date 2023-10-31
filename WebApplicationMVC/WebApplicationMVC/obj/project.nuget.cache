@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YWiohx3Vtj6nklPxicRSkGcdJ2zee08mpbOiEV5cZ1oTaE6WJsvMCohT2+hFkNJO7qYV/Ogh4cGhBH2tHJ4wPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anifa\\source\\repos\\WebApplicationMVC\\WebApplicationMVC\\WebApplicationMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anifa\\.nuget\\packages\\microsoft.typescript.msbuild\\5.0.2\\microsoft.typescript.msbuild.5.0.2.nupkg.sha512",
+    "C:\\Users\\anifa\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\anifa\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\anifa\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

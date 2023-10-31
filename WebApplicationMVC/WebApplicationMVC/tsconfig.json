@@ -1,0 +1,19 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "types": [ "node" ],
+    "typeRoots": [ "../node_modules/@types" ],
+    "target": "es5",
+    "outDir": "wwwroot/js"
+  },
+  "include": [
+    "scripts/**/*"
+  ],
+  "types": [
+    "webpack-env"
+  ]
+}
